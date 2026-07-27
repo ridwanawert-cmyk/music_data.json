@@ -1,9 +1,18 @@
-	 {
-	 	Title = "MIXTAPE EDM 2 SEBLAAK",
-	 	Artist = "Seblaaak",
-	 	Genre = "EDM",
-	 	ImageId = "",
-	 	SoundId = "rbxassetid://91236755389078",
-	 	Speed = 0.5,
-	 },
-}
+[
+  {
+    "Title": "MIXTAPE EDM 2 SEBLAAK",
+    "Artist": "Seblaaak",
+    "Genre": "EDM",
+    "ImageId": "",
+    "SoundId": "rbxassetid://99181477955747",
+    "Speed": 0.5
+  },
+  {
+    "Title": "JUDUL LAGU KEDUA",
+    "Artist": "Nama Artist",
+    "Genre": "Pop",
+    "ImageId": "rbxassetid://12345678",
+    "SoundId": "rbxassetid://9876543210",
+    "Speed": 1.0
+  }
+]
