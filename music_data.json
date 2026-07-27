@@ -1,8 +1,8 @@
-[
-  {
-    "id": "99181477955747",
-    "title": "PEDRO_",
-    "artist": "KXX",
-    "url": "rbxassetid://99181477955747"
-  }
-]
+ {
+	 	Title = "MIXTAPE EDM 2 SEBLAAK",
+	 	Artist = "Seblaaak",
+	 	Genre = "EDM",
+	 	ImageId = "",
+	 	SoundId = "rbxassetid://99181477955747",
+	 	Speed = 0.5,
+	 },
